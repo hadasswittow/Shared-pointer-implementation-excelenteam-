@@ -43,6 +43,7 @@ int main() {
     cout << "--- Shared pointers ptr1 ---\n";
     cout << ptr1;
 
+
     return 0;
 
     return 0;
